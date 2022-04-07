@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+	<html lang="pl">
+
+		<head>
+			<meta charset="utf-8" />
+			<title> ZS NR 2 (najlepsza szkoła) W WĄGROWCU </title>
+			<meta name="description" content="Wpadaj do nas ! ! !" />
+			<meta name="keywords" content="ZS2, Wągrowiec, rekrutacja" />
+			<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+			
+			<link rel="stylesheet" href="style.css" type="text/css">
+			<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500&display=swap" rel="stylesheet">
+		</head>
+
+		<body>
+			<div id="container">
+				<div id="logo">
+					ZS NR 2 W WĄGROWCU - REKRUTACJA 22/23 <br>
+				</div>
+				<div id="banner">
+					<img src="banner.jpg"/>
+				</div>
+				<div id="menu">
+					<a href="rekrutacja XD liceum.html"> <div class="option">  II LO  </div> </a>
+					<a href="rekrutacja XD technikum.html"> <div class="option">  TECHNIKUM NR 2 </div> </a>
+					<div style="clear: both;"></div>
+				</div>
+				<div id="sidebar">
+					<a href="rekrutacja XD liceum.html"> <div class="SBoption">  II LO  </div> </a>
+					<a href="rekrutacja XD technikum.html"> <div class="SBoption">  TECHNIKUM NR 2 </div> </a>
+					<div style="clear: both;"></div>
+				</div>
+				<div id="topbar">
+					<span class="bigtitle">O szkole słów kilka: </span> Klasztorna jest gorsza oraz jest u nas mniejsza patola niż na Kcynie... a i uczy tutaj ksiądz Marcin religii więc jest fajnie XD Oprócz tego mamy też fajne boiska i niedaleko jest basen a nawet jezioro. Dodatkowo niedaleko jest las i mamy tutaj zawsze czyste powietrze. Na klasztornej nie ma czystego powietrza bo ta szkoła jest w centrum miasta i trzeba wdychać trujące gazy. Na koniec chcemy dodać, że koło nas jest fajne rondo z drzewkiem (:
+				</div/>
+				
+				<div id="content">
+				<span class="bigtitle">Klasa Politechniczna - </span> hej! wspiera nas politechnika!!! :DDD <br>
+				<div class="img"> <img src="pp.png"/> </div>
+				<div class="border"> </div>
+				<span class="bigtitle">Klasa Bezpieczeństwa Publicznego - </span> mamy fajne mundury! SERIO!!!<br>
+				<div class="img"> <img src="mundur.jpg"> </div>
+				<div class="border"> </div>
+				<span class="bigtitle">Klasa Pedagogiczna - </span> potem będziesz mógł zostać nauczycielem...<br>
+				<div class="img"> <img src="nau.png"> </div>
+				<div class="border"> </div>
+				<span class="bigtitle">Klasa Geograficzno Językowa - </span> nauczyny cię jak wymówić nazwę stolicy Sri Lanki (:<br>
+				<div class="img"> <img src="sri.png"> </div>
+				<div class="border"> </div>
+				<span class="bigtitle">Klasa Rehabilitacyjno Medyczna - </span> nauczymy cię jak trzepać gruby hajs za proste porady
+				<div class="img"> <img src="500zl.jpg"> </div>
+				</div>
+				<div id="footer">
+				ZS NR 2 W WĄGROWCU - REKRUTACJA 22/23 to strona zrobiona dla beki i nie ma większego związku z prawdziwą rekrutacją do szkoły "Zespół Szkół Ponadgimnazjalnych nr 2 im. ppłk. dr. S. Kulińskiego" <br>
+				&copy; Wszelkie prawa zastrzeżone
+				</div>
+			</div>
+		</body>
+
+	</html>
