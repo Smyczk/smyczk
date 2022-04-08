@@ -10,7 +10,7 @@ body
 	font-family: 'Oswald', sans-serif;
 	background-color: white;
 	font-size: 19px;
-	overflow: hidden;
+	display: table;
 }
 #logo
 {
@@ -71,9 +71,7 @@ body
 	border-right: 2px solid #B2B2B2;
 	float: left;
 	min-height: 3050px;
-	overflow: hidden;
-	padding-bottom: 2000px;
-	margin-bottom: -2000px;
+	display; table-cell;
 }
 .SBoption
 {
@@ -93,9 +91,6 @@ body
 	float: left;
 	padding: 40px;
 	margin-left: 100px;
-	overflow: hidden;
-	padding-bottom: 2000px;
-	margin-bottom: -2000px;
 }
 #footer
 {
