@@ -10,7 +10,6 @@ body
 	font-family: 'Oswald', sans-serif;
 	background-color: white;
 	font-size: 19px;
-	display: table;
 }
 #logo
 {
@@ -71,7 +70,6 @@ body
 	border-right: 2px solid #B2B2B2;
 	float: left;
 	min-height: 3050px;
-	display: table-cell;
 }
 .SBoption
 {
