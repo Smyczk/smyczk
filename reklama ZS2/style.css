@@ -72,8 +72,8 @@ body
 	float: left;
 	min-height: 3050px;
 	overflow: hidden;
-	padding-bottom: -2000px;
-	margin-bottom: 2000px;
+	padding-bottom: 2000px;
+	margin-bottom: -2000px;
 }
 .SBoption
 {
@@ -94,8 +94,8 @@ body
 	padding: 40px;
 	margin-left: 100px;
 	overflow: hidden;
-	padding-bottom: -2000px;
-	margin-bottom: 2000px;
+	padding-bottom: 2000px;
+	margin-bottom: -2000px;
 }
 #footer
 {
